@@ -3,7 +3,8 @@ Cookie961 language interpreter written on python
 
 ## COOKIE961 INFO
 
-* c - Adds 1 to the value in the cookie
+c - Adds 1 to the value in the cookie
+
 C - Adds 10 to the value in the cookie
 k - Multiplies the cookie value by 2
 K - Multiplies the cookie value by 5
