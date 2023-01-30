@@ -20,7 +20,6 @@ def execute(command):
 			except:
 				raise TypeError("Invalid N command.")
 
-#Yeah, veryyyy "clever"
 def cycleinterpreter(code, counter):
 	response = []
 	cumm = []
