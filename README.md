@@ -1,7 +1,7 @@
 # Cookie961-Interpreter
 Cookie961 language interpreter written on python
 
-COOKIE961 INFO
+## COOKIE961 INFO
 
 c - [Adds 1 to the value in the cookie]
 C - [Adds 10 to the value in the cookie]
@@ -22,6 +22,6 @@ r - [Prints random value]
 R - [Adds random number to cookie value]
 e - [Programm ends]
 
-USAGE
+## USAGE
 
 python cookie961.py filename.c961
