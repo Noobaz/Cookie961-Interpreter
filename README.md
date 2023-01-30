@@ -1,7 +1,7 @@
 # Cookie961-Interpreter
 Cookie961 language interpreter written on python
 
-## COOKIE961 INFO
+## Cookie961 INFO
 
 * c - Adds 1 to the value in the cookie
 
